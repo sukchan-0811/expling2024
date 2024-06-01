@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.2289342403628118 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "TextTier" 
+        name = "tone" 
+        xmin = 0 
+        xmax = 1.2289342403628118 
+        points: size = 8 
+        points [1]:
+            number = 0.1347216362212925 
+            mark = "L" 
+        points [2]:
+            number = 0.2069582721039937 
+            mark = "Ha" 
+        points [3]:
+            number = 0.27762454633707095 
+            mark = "L" 
+        points [4]:
+            number = 0.39592512394207435 
+            mark = "+H" 
+        points [5]:
+            number = 0.5670945437510837 
+            mark = "Ha" 
+        points [6]:
+            number = 0.6309559175024573 
+            mark = "L" 
+        points [7]:
+            number = 0.8230634926397858 
+            mark = "L+" 
+        points [8]:
+            number = 1.095782965791143 
+            mark = "H%" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "word" 
+        xmin = 0 
+        xmax = 1.2289342403628118 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.07347753188595886 
+            text = "<SIL>" 
+        intervals [2]:
+            xmin = 0.07347753188595886 
+            xmax = 0.2069582721039937 
+            text = "mueol" 
+        intervals [3]:
+            xmin = 0.2069582721039937 
+            xmax = 0.5670945437510837 
+            text = "amudo" 
+        intervals [4]:
+            xmin = 0.5670945437510837 
+            xmax = 0.7230838009470617 
+            text = "an" 
+        intervals [5]:
+            xmin = 0.7230838009470617 
+            xmax = 1.095782965791143 
+            text = "sanni" 
+        intervals [6]:
+            xmin = 1.095782965791143 
+            xmax = 1.2289342403628118 
+            text = "<SIL>" 

@@ -1,0 +1,71 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.4016553287981859 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "TextTier" 
+        name = "tone" 
+        xmin = 0 
+        xmax = 1.4016553287981859 
+        points: size = 9 
+        points [1]:
+            number = 0.138133549944565 
+            mark = "L" 
+        points [2]:
+            number = 0.29694165015136015 
+            mark = "+H" 
+        points [3]:
+            number = 0.4378390623649077 
+            mark = "Ha" 
+        points [4]:
+            number = 0.5441091444581766 
+            mark = "L" 
+        points [5]:
+            number = 0.6127667817656257 
+            mark = "Ha" 
+        points [6]:
+            number = 0.682021442006183 
+            mark = "L" 
+        points [7]:
+            number = 0.8742628264670402 
+            mark = "+H" 
+        points [8]:
+            number = 0.9888912296238247 
+            mark = "L+" 
+        points [9]:
+            number = 1.250387274325239 
+            mark = "H%" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "word" 
+        xmin = 0 
+        xmax = 1.4016553287981859 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.09514789876077084 
+            text = "<SIL>" 
+        intervals [2]:
+            xmin = 0.09514789876077084 
+            xmax = 0.4378390623649077 
+            text = "amudo" 
+        intervals [3]:
+            xmin = 0.4378390623649077 
+            xmax = 0.6127667817656257 
+            text = "mueol" 
+        intervals [4]:
+            xmin = 0.6127667817656257 
+            xmax = 0.7548582398453897 
+            text = "an" 
+        intervals [5]:
+            xmin = 0.7548582398453897 
+            xmax = 1.250387274325239 
+            text = "ilgeonni" 
+        intervals [6]:
+            xmin = 1.250387274325239 
+            xmax = 1.4016553287981859 
+            text = "<SIL>" 

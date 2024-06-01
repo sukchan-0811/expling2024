@@ -1,0 +1,72 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.453718820861678 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "TextTier" 
+        name = "tone" 
+        xmin = 0 
+        xmax = 1.453718820861678 
+        points: size = 8 
+        points [1]:
+            number = 0.14078762688304355 
+            mark = "L" 
+        points [2]:
+            number = 0.2448130464668044 
+            mark = "Ha" 
+        points [3]:
+            number = 0.3271665036372817 
+            mark = "L" 
+        points [4]:
+            number = 0.46710546093448385 
+            mark = "+H" 
+        points [5]:
+            number = 0.7612249508290457 
+            mark = "Ha" 
+        points [6]:
+            number = 0.7977576874685808 
+            mark = "L" 
+        points [7]:
+            number = 1.08816198380658 
+            mark = "L+" 
+        points [8]:
+            number = 1.3457487370616066 
+            mark = "H%" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "word" 
+        xmin = 0 
+        xmax = 1.453718820861678 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.08629812138678788 
+            text = "<SIL>" 
+        intervals [2]:
+            xmin = 0.08629812138678788 
+            xmax = 0.2448130464668044 
+            text = "mueol" 
+        intervals [3]:
+            xmin = 0.2448130464668044 
+            xmax = 0.4980654072391746 
+            text = "mina" 
+        intervals [4]:
+            xmin = 0.4980654072391746 
+            xmax = 0.7612249508290457 
+            text = "pakke" 
+        intervals [5]:
+            xmin = 0.7612249508290457 
+            xmax = 0.8838263381956211 
+            text = "an" 
+        intervals [6]:
+            xmin = 0.8838263381956211 
+            xmax = 1.3457487370616066 
+            text = "meogeonni" 
+        intervals [7]:
+            xmin = 1.3457487370616066 
+            xmax = 1.453718820861678 
+            text = "<SIL>" 

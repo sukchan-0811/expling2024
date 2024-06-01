@@ -1,0 +1,72 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.3846031746031746 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "TextTier" 
+        name = "tone" 
+        xmin = 0 
+        xmax = 1.3846031746031746 
+        points: size = 8 
+        points [1]:
+            number = 0.1364530550719927 
+            mark = "L" 
+        points [2]:
+            number = 0.2207886944447588 
+            mark = "Ha" 
+        points [3]:
+            number = 0.30807313239699224 
+            mark = "L" 
+        points [4]:
+            number = 0.43782026989355544 
+            mark = "+H" 
+        points [5]:
+            number = 0.7557007567601353 
+            mark = "Ha" 
+        points [6]:
+            number = 0.8117279297700148 
+            mark = "L" 
+        points [7]:
+            number = 0.9916046431175228 
+            mark = "L+" 
+        points [8]:
+            number = 1.2723302678828141 
+            mark = "H%" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "word" 
+        xmin = 0 
+        xmax = 1.3846031746031746 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.08042588206211315 
+            text = "<SIL>" 
+        intervals [2]:
+            xmin = 0.08042588206211315 
+            xmax = 0.2207886944447588 
+            text = "mueol" 
+        intervals [3]:
+            xmin = 0.2207886944447588 
+            xmax = 0.4779239305743113 
+            text = "yeonu" 
+        intervals [4]:
+            xmin = 0.4779239305743113 
+            xmax = 0.7557007567601353 
+            text = "pakke" 
+        intervals [5]:
+            xmin = 0.7557007567601353 
+            xmax = 0.9308593923804955 
+            text = "an" 
+        intervals [6]:
+            xmin = 0.9308593923804955 
+            xmax = 1.2723302678828141 
+            text = "sanni" 
+        intervals [7]:
+            xmin = 1.2723302678828141 
+            xmax = 1.3846031746031746 
+            text = "<SIL>" 

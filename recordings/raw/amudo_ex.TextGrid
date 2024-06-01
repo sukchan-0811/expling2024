@@ -1,0 +1,82 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 23.16480725623583 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "sentence" 
+        xmin = 0 
+        xmax = 23.16480725623583 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.8947551020408163 
+            text = "     " 
+        intervals [2]:
+            xmin = 0.8947551020408163 
+            xmax = 2.2412131519274374 
+            text = "s" 
+        intervals [3]:
+            xmin = 2.2412131519274374 
+            xmax = 3.7032539682539682 
+            text = "" 
+        intervals [4]:
+            xmin = 3.7032539682539682 
+            xmax = 5.054914965986394 
+            text = "s" 
+        intervals [5]:
+            xmin = 5.054914965986394 
+            xmax = 6.479269517330742 
+            text = "" 
+        intervals [6]:
+            xmin = 6.479269517330742 
+            xmax = 7.702603930461073 
+            text = "s" 
+        intervals [7]:
+            xmin = 7.702603930461073 
+            xmax = 9.061689342403628 
+            text = "" 
+        intervals [8]:
+            xmin = 9.061689342403628 
+            xmax = 10.331043083900227 
+            text = "s" 
+        intervals [9]:
+            xmin = 10.331043083900227 
+            xmax = 11.833956916099773 
+            text = "" 
+        intervals [10]:
+            xmin = 11.833956916099773 
+            xmax = 13.076152683295541 
+            text = "s" 
+        intervals [11]:
+            xmin = 13.076152683295541 
+            xmax = 14.259897959183673 
+            text = "" 
+        intervals [12]:
+            xmin = 14.259897959183673 
+            xmax = 15.5401171579743 
+            text = "s" 
+        intervals [13]:
+            xmin = 15.5401171579743 
+            xmax = 16.815022675736962 
+            text = "" 
+        intervals [14]:
+            xmin = 16.815022675736962 
+            xmax = 17.95274149659864 
+            text = "s" 
+        intervals [15]:
+            xmin = 17.95274149659864 
+            xmax = 19.103208616780048 
+            text = "" 
+        intervals [16]:
+            xmin = 19.103208616780048 
+            xmax = 20.282133786848075 
+            text = "s" 
+        intervals [17]:
+            xmin = 20.282133786848075 
+            xmax = 23.16480725623583 
+            text = "" 
